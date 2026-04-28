@@ -3199,3 +3199,840 @@ FPackageName: Skipped package /Game/SoulCity/Maps/SLV_Soul_Slum_Collision_BuiltD
 [2026.04.28-18.43.45:489][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8080.867676
 [2026.04.28-18.43.46:488][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.28-18.43.46:488][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8081.533203, Update Interval: 304.918365
+[2026.04.28-18.47.46:164][196]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-18.47.56:766][196]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.wav)
+[2026.04.28-18.47.56:772][196]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'Shot'
+[2026.04.28-18.47.56:775][196]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Shot...
+[2026.04.28-18.47.56:784][196]LogAudioDerivedData: Display: Shot compressé à 13.85 % (de 281 Ko à 39 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.47.56:785][196]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/Shot.Shot: Duration=1.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39971 bytes, ChunkN=0)
+[2026.04.28-18.47.56:787][196]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Shot...
+[2026.04.28-18.47.56:795][196]LogAudioDerivedData: Display: Shot compressé à 13.85 % (de 281 Ko à 39 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.47.56:795][196]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/Shot.Shot: Duration=1.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39971 bytes, ChunkN=0)
+[2026.04.28-18.48.00:026][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.28-18.48.00:031][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SoulCity/Maps/LV_Soul_Slum' took 0.049
+[2026.04.28-18.48.00:033][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/Shot] ([1] browsable assets)...
+[2026.04.28-18.48.00:037][305]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/Shot.Shot]
+[2026.04.28-18.48.00:037][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/Shot]
+[2026.04.28-18.48.00:058][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/Shot_Auto1
+[2026.04.28-18.48.00:058][305]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Shot_Auto1CDD29D9F45017F25296C8BA8A91202D5.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/Shot_Auto1.uasset'
+[2026.04.28-18.48.00:060][305]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.04.28-18.48.11:008][697]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.28-18.48.11:122][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.28-18.48.32:270][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.04.28-18.48.32:439][414]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.28-18.48.32:466][414]LogSlate: Took 0.026424 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.28-18.48.34:032][414]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.28-18.48.34:080][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.28-18.48.34:109][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.28-18.48.34:135][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.28-18.48.40:774][565]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.wav)
+[2026.04.28-18.48.40:776][565]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'Shot'
+[2026.04.28-18.48.40:778][565]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Shot...
+[2026.04.28-18.48.40:786][565]LogAudioDerivedData: Display: Shot compressé à 13.85 % (de 281 Ko à 39 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.48.40:787][565]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Gun/Shot.Shot: Duration=1.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39971 bytes, ChunkN=0)
+[2026.04.28-18.48.40:789][565]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Shot...
+[2026.04.28-18.48.40:798][565]LogAudioDerivedData: Display: Shot compressé à 13.85 % (de 281 Ko à 39 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.48.40:799][565]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Gun/Shot.Shot: Duration=1.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=39971 bytes, ChunkN=0)
+[2026.04.28-18.49.00:625][696]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.mp3)
+[2026.04.28-18.49.00:629][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step1...
+[2026.04.28-18.49.00:632][696]LogAudioDerivedData: Display: step1 compressé à 17.42 % (de 36 Ko à 6 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:632][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step1.step1: Duration=0.42 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6415 bytes, ChunkN=0)
+[2026.04.28-18.49.00:633][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step1...
+[2026.04.28-18.49.00:633][696]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.mp3)
+[2026.04.28-18.49.00:635][696]LogAudioDerivedData: Display: step1 compressé à 17.42 % (de 36 Ko à 6 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:635][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step2...
+[2026.04.28-18.49.00:635][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step1.step1: Duration=0.42 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6415 bytes, ChunkN=0)
+[2026.04.28-18.49.00:637][696]LogAudioDerivedData: Display: step2 compressé à 17.02 % (de 33 Ko à 5 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:637][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step2.step2: Duration=0.39 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5877 bytes, ChunkN=0)
+[2026.04.28-18.49.00:637][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step2...
+[2026.04.28-18.49.00:638][696]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.mp3)
+[2026.04.28-18.49.00:639][696]LogAudioDerivedData: Display: step2 compressé à 17.02 % (de 33 Ko à 5 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:639][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step2.step2: Duration=0.39 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5877 bytes, ChunkN=0)
+[2026.04.28-18.49.00:642][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step3...
+[2026.04.28-18.49.00:643][696]LogAudioDerivedData: Display: step3 compressé à 15.15 % (de 38 Ko à 5 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:643][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step3.step3: Duration=0.44 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5929 bytes, ChunkN=0)
+[2026.04.28-18.49.00:644][696]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde step3...
+[2026.04.28-18.49.00:645][696]LogAudioDerivedData: Display: step3 compressé à 15.15 % (de 38 Ko à 5 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.00:646][696]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Footsteps/step3.step3: Duration=0.44 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5929 bytes, ChunkN=0)
+[2026.04.28-18.49.10:830][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/BuzzingLamp.wav)
+[2026.04.28-18.49.10:841][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde BuzzingLamp...
+[2026.04.28-18.49.10:874][884]LogAudioDerivedData: Display: BuzzingLamp compressé à 21.23 % (de 1 111 Ko à 236 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.10:875][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/BuzzingLamp.BuzzingLamp: Duration=5.93 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=241653 bytes, ChunkN=0)
+[2026.04.28-18.49.10:877][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde BuzzingLamp...
+[2026.04.28-18.49.10:888][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.wav)
+[2026.04.28-18.49.10:901][884]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'Fabric'
+[2026.04.28-18.49.10:912][884]LogAudioDerivedData: Display: BuzzingLamp compressé à 21.23 % (de 1 111 Ko à 236 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.10:913][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/BuzzingLamp.BuzzingLamp: Duration=5.93 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=241653 bytes, ChunkN=0)
+[2026.04.28-18.49.10:914][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Fabric...
+[2026.04.28-18.49.11:018][884]LogAudioDerivedData: Display: Fabric compressé à 17.07 % (de 3 081 Ko à 526 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.11:020][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/Fabric.Fabric: Duration=16.43 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261275 bytes, ChunkN=261629)
+[2026.04.28-18.49.11:023][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Fabric...
+[2026.04.28-18.49.11:089][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/FlickerLoop.wav)
+[2026.04.28-18.49.11:130][884]LogAudioDerivedData: Display: Fabric compressé à 17.07 % (de 3 081 Ko à 526 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.11:132][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/Fabric.Fabric: Duration=16.43 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261275 bytes, ChunkN=261629)
+[2026.04.28-18.49.11:266][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde FlickerLoop...
+[2026.04.28-18.49.11:870][884]LogAudioDerivedData: Display: FlickerLoop compressé à 16.31 % (de 19 500 Ko à 3 180 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.11:876][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/FlickerLoop.FlickerLoop: Duration=104.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=14, Chunk0=28 bytes, Chunk1=261337 bytes, ChunkN=261955)
+[2026.04.28-18.49.11:892][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde FlickerLoop...
+[2026.04.28-18.49.11:902][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.wav)
+[2026.04.28-18.49.11:916][884]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'Gears'
+[2026.04.28-18.49.11:929][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Gears...
+[2026.04.28-18.49.12:014][884]LogAudioDerivedData: Display: Gears compressé à 16.50 % (de 2 625 Ko à 433 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:015][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/Gears.Gears: Duration=14.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261491 bytes, ChunkN=182139)
+[2026.04.28-18.49.12:017][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde Gears...
+[2026.04.28-18.49.12:023][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/NeonLoop.wav)
+[2026.04.28-18.49.12:037][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde NeonLoop...
+[2026.04.28-18.49.12:085][884]LogAudioDerivedData: Display: NeonLoop compressé à 19.95 % (de 1 500 Ko à 299 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:086][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/NeonLoop.NeonLoop: Duration=8.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262061 bytes, ChunkN=44553)
+[2026.04.28-18.49.12:088][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde NeonLoop...
+[2026.04.28-18.49.12:103][884]LogAudioDerivedData: Display: Gears compressé à 16.50 % (de 2 625 Ko à 433 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:104][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/Gears.Gears: Duration=14.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261491 bytes, ChunkN=182139)
+[2026.04.28-18.49.12:130][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/OceanLoop.wav)
+[2026.04.28-18.49.12:141][884]LogAudioDerivedData: Display: NeonLoop compressé à 19.95 % (de 1 500 Ko à 299 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:142][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/NeonLoop.NeonLoop: Duration=8.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262061 bytes, ChunkN=44553)
+[2026.04.28-18.49.12:283][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde OceanLoop...
+[2026.04.28-18.49.12:552][884]LogAudioDerivedData: Display: FlickerLoop compressé à 16.31 % (de 19 500 Ko à 3 180 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:558][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/FlickerLoop.FlickerLoop: Duration=104.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=14, Chunk0=28 bytes, Chunk1=261337 bytes, ChunkN=261955)
+[2026.04.28-18.49.12:717][884]LogAudioDerivedData: Display: OceanLoop compressé à 18.31 % (de 12 750 Ko à 2 334 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:722][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/OceanLoop.OceanLoop: Duration=68.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=11, Chunk0=28 bytes, Chunk1=261821 bytes, ChunkN=261993)
+[2026.04.28-18.49.12:729][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde OceanLoop...
+[2026.04.28-18.49.12:736][884]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/SparklingLoop.wav)
+[2026.04.28-18.49.12:753][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde SparklingLoop...
+[2026.04.28-18.49.12:812][884]LogAudioDerivedData: Display: SparklingLoop compressé à 14.92 % (de 2 063 Ko à 307 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:813][884]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/SparklingLoop.SparklingLoop: Duration=11.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261855 bytes, ChunkN=53445)
+[2026.04.28-18.49.12:816][884]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END onde SparklingLoop...
+[2026.04.28-18.49.12:897][886]LogAudioDerivedData: Display: SparklingLoop compressé à 14.92 % (de 2 063 Ko à 307 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.12:898][886]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/SparklingLoop.SparklingLoop: Duration=11.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261855 bytes, ChunkN=53445)
+[2026.04.28-18.49.13:192][898]LogAudioDerivedData: Display: OceanLoop compressé à 18.31 % (de 12 750 Ko à 2 334 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2026.04.28-18.49.13:197][898]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Ambient_Sounds/OceanLoop.OceanLoop: Duration=68.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=11, Chunk0=28 bytes, Chunk1=261821 bytes, ChunkN=261993)
+[2026.04.28-18.49.46:619][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8442.023438
+[2026.04.28-18.49.46:774][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-18.49.46:774][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8442.153320, Update Interval: 345.867493
+[2026.04.28-18.51.03:314][556]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_Rifle.MS_Rifle
+[2026.04.28-18.51.03:415][556]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-18.51.03:415][556]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-18.51.03:415][556]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-18.54.05:945][670]LogEditorTransaction: Undo Promouvoir les entrées du nœud MetaSound en entrées de graphique
+[2026.04.28-18.55.06:073][148]LogEditorTransaction: Undo Nœud de mouvement
+[2026.04.28-18.55.06:614][149]LogEditorTransaction: Undo Promouvoir les entrées du nœud MetaSound en entrées de graphique
+[2026.04.28-18.55.07:149][150]LogEditorTransaction: Undo Nœud de mouvement
+[2026.04.28-18.55.07:692][151]LogEditorTransaction: Undo Nœud de mouvement
+[2026.04.28-18.56.05:959][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8821.398438
+[2026.04.28-18.56.06:095][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-18.56.06:095][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8821.505859, Update Interval: 300.078735
+[2026.04.28-18.58.12:697][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.04.28-18.58.12:702][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SoulCity/Maps/LV_Soul_Slum' took 0.153
+[2026.04.28-18.58.12:703][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Rifle] ([1] browsable assets)...
+[2026.04.28-18.58.12:703][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Rifle]
+[2026.04.28-18.58.12:723][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MS_Rifle_Auto2
+[2026.04.28-18.58.12:723][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Rifle_Auto22503D59A4D333C311EE85D8265CAA4BC.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/MS_Rifle_Auto2.uasset'
+[2026.04.28-18.58.12:724][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Gun/Shot] ([1] browsable assets)...
+[2026.04.28-18.58.12:727][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Gun/Shot.Shot]
+[2026.04.28-18.58.12:727][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Gun/Shot]
+[2026.04.28-18.58.12:738][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Gun/Shot_Auto2
+[2026.04.28-18.58.12:738][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Shot_Auto23B16AFEF415453DDCE03B68190DA0677.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Gun/Shot_Auto2.uasset'
+[2026.04.28-18.58.12:738][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step1] ([1] browsable assets)...
+[2026.04.28-18.58.12:741][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step1.step1]
+[2026.04.28-18.58.12:741][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step1]
+[2026.04.28-18.58.12:749][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step1_Auto2
+[2026.04.28-18.58.12:749][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step1_Auto24736F53B4057D6D665E735AEEE3B5AA3.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step1_Auto2.uasset'
+[2026.04.28-18.58.12:751][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step2] ([1] browsable assets)...
+[2026.04.28-18.58.12:755][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step2.step2]
+[2026.04.28-18.58.12:755][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step2]
+[2026.04.28-18.58.12:763][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step2_Auto2
+[2026.04.28-18.58.12:763][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step2_Auto2F9AFEC3B4DBDD86EDF91B98FFDC7117B.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step2_Auto2.uasset'
+[2026.04.28-18.58.12:764][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step3] ([1] browsable assets)...
+[2026.04.28-18.58.12:767][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step3.step3]
+[2026.04.28-18.58.12:767][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step3]
+[2026.04.28-18.58.12:776][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step3_Auto2
+[2026.04.28-18.58.12:776][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step3_Auto243CBDA0640986CA8850096971419526F.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step3_Auto2.uasset'
+[2026.04.28-18.58.12:776][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/BuzzingLamp] ([1] browsable assets)...
+[2026.04.28-18.58.12:781][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/BuzzingLamp.BuzzingLamp]
+[2026.04.28-18.58.12:781][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/BuzzingLamp]
+[2026.04.28-18.58.12:796][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto2
+[2026.04.28-18.58.12:796][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/BuzzingLamp_Auto25AB6EAEF4ACF85135B6923BFB31A3A92.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto2.uasset'
+[2026.04.28-18.58.12:797][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/Fabric] ([1] browsable assets)...
+[2026.04.28-18.58.12:804][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/Fabric.Fabric]
+[2026.04.28-18.58.12:804][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Fabric]
+[2026.04.28-18.58.12:820][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto2
+[2026.04.28-18.58.12:820][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Fabric_Auto2E05E856C43F18C48BE78F5843D93E3F2.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto2.uasset'
+[2026.04.28-18.58.12:821][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/FlickerLoop] ([1] browsable assets)...
+[2026.04.28-18.58.12:868][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/FlickerLoop.FlickerLoop]
+[2026.04.28-18.58.12:868][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/FlickerLoop]
+[2026.04.28-18.58.12:917][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto2
+[2026.04.28-18.58.12:917][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/FlickerLoop_Auto2247E4CEB41A110596B3DC8860ED3FE82.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto2.uasset'
+[2026.04.28-18.58.12:920][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/Gears] ([1] browsable assets)...
+[2026.04.28-18.58.12:925][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/Gears.Gears]
+[2026.04.28-18.58.12:925][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Gears]
+[2026.04.28-18.58.12:940][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto2
+[2026.04.28-18.58.12:940][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Gears_Auto216D72B054FD05B113D0FD6858A3978C6.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto2.uasset'
+[2026.04.28-18.58.12:941][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/NeonLoop] ([1] browsable assets)...
+[2026.04.28-18.58.12:945][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/NeonLoop.NeonLoop]
+[2026.04.28-18.58.12:945][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/NeonLoop]
+[2026.04.28-18.58.12:958][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto2
+[2026.04.28-18.58.12:959][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/NeonLoop_Auto295040369460A590B88A9939ED2FD2A5E.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto2.uasset'
+[2026.04.28-18.58.12:959][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/OceanLoop] ([1] browsable assets)...
+[2026.04.28-18.58.12:989][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/OceanLoop.OceanLoop]
+[2026.04.28-18.58.12:989][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/OceanLoop]
+[2026.04.28-18.58.13:033][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto2
+[2026.04.28-18.58.13:033][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/OceanLoop_Auto235B824A8439253BA07EABC8B09678CBE.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto2.uasset'
+[2026.04.28-18.58.13:035][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/SparklingLoop] ([1] browsable assets)...
+[2026.04.28-18.58.13:039][878]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/SparklingLoop.SparklingLoop]
+[2026.04.28-18.58.13:039][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/SparklingLoop]
+[2026.04.28-18.58.13:053][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto2
+[2026.04.28-18.58.13:053][878]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SparklingLoop_Auto2237F9A3E40D640896D799F962BCBF971.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto2.uasset'
+[2026.04.28-18.58.13:054][878]LogFileHelpers: Auto-saving content packages took 0.352
+[2026.04.28-19.01.58:518][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9173.969727
+[2026.04.28-19.01.58:749][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.01.58:749][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9174.174805, Update Interval: 337.678772
+[2026.04.28-19.02.23:747][267]LogEditorTransaction: Undo Nœud de mouvement
+[2026.04.28-19.02.24:513][278]LogEditorTransaction: Undo Promouvoir les entrées du nœud MetaSound en entrées de graphique
+[2026.04.28-19.08.08:330][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9543.759766
+[2026.04.28-19.08.09:330][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.08.09:330][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9544.427734, Update Interval: 331.269867
+[2026.04.28-19.08.21:126][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.28-19.08.21:132][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SoulCity/Maps/LV_Soul_Slum' took 0.076
+[2026.04.28-19.08.21:133][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Rifle] ([1] browsable assets)...
+[2026.04.28-19.08.21:133][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Rifle]
+[2026.04.28-19.08.21:156][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MS_Rifle_Auto3
+[2026.04.28-19.08.21:156][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Rifle_Auto3FA9537324F7D6C48373C7D9B1BBC329C.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/MS_Rifle_Auto3.uasset'
+[2026.04.28-19.08.21:157][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Gun/Shot] ([1] browsable assets)...
+[2026.04.28-19.08.21:157][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Gun/Shot]
+[2026.04.28-19.08.21:167][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Gun/Shot_Auto3
+[2026.04.28-19.08.21:167][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Shot_Auto37867FB744073ED41950BC69B54896041.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Gun/Shot_Auto3.uasset'
+[2026.04.28-19.08.21:168][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step1] ([1] browsable assets)...
+[2026.04.28-19.08.21:168][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step1]
+[2026.04.28-19.08.21:175][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step1_Auto3
+[2026.04.28-19.08.21:175][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step1_Auto3CB1933C64B21645F2C2C9D9381F91FA6.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step1_Auto3.uasset'
+[2026.04.28-19.08.21:176][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step2] ([1] browsable assets)...
+[2026.04.28-19.08.21:176][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step2]
+[2026.04.28-19.08.21:183][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step2_Auto3
+[2026.04.28-19.08.21:183][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step2_Auto3D8D824714A49A1F45BA3C592B1A3DF90.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step2_Auto3.uasset'
+[2026.04.28-19.08.21:184][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step3] ([1] browsable assets)...
+[2026.04.28-19.08.21:184][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step3]
+[2026.04.28-19.08.21:191][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step3_Auto3
+[2026.04.28-19.08.21:191][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step3_Auto3F7F720A64B6A8B3C600A668F470086D8.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step3_Auto3.uasset'
+[2026.04.28-19.08.21:192][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/BuzzingLamp] ([1] browsable assets)...
+[2026.04.28-19.08.21:192][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/BuzzingLamp]
+[2026.04.28-19.08.21:205][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto3
+[2026.04.28-19.08.21:205][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/BuzzingLamp_Auto3B243500248C0C9149C992DB0AB77FB6A.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto3.uasset'
+[2026.04.28-19.08.21:206][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/Fabric] ([1] browsable assets)...
+[2026.04.28-19.08.21:206][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Fabric]
+[2026.04.28-19.08.21:222][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto3
+[2026.04.28-19.08.21:222][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Fabric_Auto301E357F745FC86C23FD76A95CC74F90A.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto3.uasset'
+[2026.04.28-19.08.21:223][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/FlickerLoop] ([1] browsable assets)...
+[2026.04.28-19.08.21:223][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/FlickerLoop]
+[2026.04.28-19.08.21:273][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto3
+[2026.04.28-19.08.21:273][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/FlickerLoop_Auto3A0DA9BE544143872478F639458182ABA.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto3.uasset'
+[2026.04.28-19.08.21:275][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/Gears] ([1] browsable assets)...
+[2026.04.28-19.08.21:275][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Gears]
+[2026.04.28-19.08.21:291][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto3
+[2026.04.28-19.08.21:292][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Gears_Auto3B93A1A3A4DC3936DEFD555900E7FE609.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto3.uasset'
+[2026.04.28-19.08.21:292][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/NeonLoop] ([1] browsable assets)...
+[2026.04.28-19.08.21:292][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/NeonLoop]
+[2026.04.28-19.08.21:306][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto3
+[2026.04.28-19.08.21:306][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/NeonLoop_Auto39F15C7F64EFC675F1360CE9D481CE6E3.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto3.uasset'
+[2026.04.28-19.08.21:307][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/OceanLoop] ([1] browsable assets)...
+[2026.04.28-19.08.21:307][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/OceanLoop]
+[2026.04.28-19.08.21:352][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto3
+[2026.04.28-19.08.21:352][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/OceanLoop_Auto33CB934314B4A1F3C39124BABF827FAD5.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto3.uasset'
+[2026.04.28-19.08.21:353][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/SparklingLoop] ([1] browsable assets)...
+[2026.04.28-19.08.21:353][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/SparklingLoop]
+[2026.04.28-19.08.21:368][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto3
+[2026.04.28-19.08.21:368][533]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SparklingLoop_Auto3BB15C38346BCAD3FDEC8F5A6DCA43165.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto3.uasset'
+[2026.04.28-19.08.21:369][533]LogFileHelpers: Auto-saving content packages took 0.237
+[2026.04.28-19.08.23:455][540]LogSlate: Took 0.005887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.28-19.08.23:508][541]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.mp3]
+[2026.04.28-19.08.23:508][541]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.mp3)
+[2026.04.28-19.08.23:516][541]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.23:682][542]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.mp3]
+[2026.04.28-19.08.23:682][542]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.mp3)
+[2026.04.28-19.08.23:689][542]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.23:696][542]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/SparklingLoop.wav]
+[2026.04.28-19.08.23:702][542]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/SparklingLoop.wav)
+[2026.04.28-19.08.23:847][542]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.24:104][543]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/OceanLoop.wav]
+[2026.04.28-19.08.24:146][543]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/OceanLoop.wav)
+[2026.04.28-19.08.25:109][543]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.26:402][544]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/NeonLoop.wav]
+[2026.04.28-19.08.26:407][544]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/NeonLoop.wav)
+[2026.04.28-19.08.26:520][544]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.26:711][545]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.wav]
+[2026.04.28-19.08.26:720][545]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.wav)
+[2026.04.28-19.08.26:902][545]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.27:165][546]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/FlickerLoop.wav]
+[2026.04.28-19.08.27:229][546]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/FlickerLoop.wav)
+[2026.04.28-19.08.28:703][546]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.30:594][547]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.wav]
+[2026.04.28-19.08.30:604][547]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.wav)
+[2026.04.28-19.08.30:831][547]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.31:147][548]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/BuzzingLamp.wav]
+[2026.04.28-19.08.31:151][548]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/BuzzingLamp.wav)
+[2026.04.28-19.08.31:234][548]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.31:479][549]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.wav]
+[2026.04.28-19.08.31:480][549]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.wav)
+[2026.04.28-19.08.31:509][549]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.31:538][549]LogAudioEditor: Performing atomic reimport of [C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.mp3]
+[2026.04.28-19.08.31:539][549]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.mp3)
+[2026.04.28-19.08.31:544][549]LogAudioEditor: -- imported successfully
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée step2 depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.mp3.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée step1 depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.mp3.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée SparklingLoop depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/SparklingLoop.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée OceanLoop depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/OceanLoop.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée NeonLoop depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/NeonLoop.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée Gears depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée FlickerLoop depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/FlickerLoop.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée Fabric depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée BuzzingLamp depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/BuzzingLamp.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée Shot depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.wav.
+[2026.04.28-19.08.34:824][559]AssetReimport: Ressource réimportée step3 depuis C:/Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.mp3.
+[2026.04.28-19.09.24:329][952]LogEditorTransaction: Undo Ajouter une variable MetaSound
+[2026.04.28-19.09.24:902][955]LogEditorTransaction: Undo Nœud de mouvement
+[2026.04.28-19.14.24:207][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9919.638672
+[2026.04.28-19.14.24:345][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.14.24:345][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9919.749023, Update Interval: 302.942596
+[2026.04.28-19.16.22:923][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-19.16.23:043][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Rifle] ([1] browsable assets)...
+[2026.04.28-19.16.23:043][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Rifle]
+[2026.04.28-19.16.23:043][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Rifle" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Rifle.uasset" SILENT=true
+[2026.04.28-19.16.23:068][632]LogSavePackage: Moving output files for package: /Game/Audio/MS_Rifle
+[2026.04.28-19.16.23:070][632]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Rifle3492043944D5D6360F7137B64CC04178.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Rifle.uasset'
+[2026.04.28-19.16.23:082][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.127 ms
+[2026.04.28-19.16.23:150][632]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-19.16.23:150][632]LogContentValidation: Enabled validators:
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-19.16.23:151][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-19.16.23:152][632]AssetCheck: /Game/Audio/MS_Rifle Validation de la ressource
+[2026.04.28-19.16.23:234][632]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-19.16.26:504][753]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.04.28-19.16.26:524][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-19.16.26:525][753]LogPlayLevel: Creating play world package: /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.16.26:823][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.298983s)
+[2026.04.28-19.16.26:823][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SoulCity/Maps/LV_Soul_Slum.LV_Soul_Slum to /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum (0.299067s)
+[2026.04.28-19.16.26:896][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.04.28-19.16.26:901][753]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Soul_Slum
+[2026.04.28-19.16.26:904][753]LogPlayLevel: PIE: World Init took: (0.003080s)
+[2026.04.28-19.16.26:905][753]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-19.16.26:905][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-19.16.26:905][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-19.16.26:905][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-19.16.26:905][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-19.16.26:905][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-19.16.26:908][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-19.16.26:943][753]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL T450BT)
+[2026.04.28-19.16.26:943][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-19.16.26:943][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-19.16.26:943][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-19.16.26:944][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.28-19.16.26:944][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.28-19.16.26:947][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.28-19.16.26:947][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.28-19.16.26:947][753]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.28-19.16.26:947][753]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_Soul_Slum'.
+[2026.04.28-19.16.26:947][753]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.28-19.16.26:954][753]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.04.28-19.16.27:094][753]LogWorld: Bringing World /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum up for play (max tick rate 0) at 2026.04.28-15.16.27
+[2026.04.28-19.16.27:142][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:142][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:142][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:142][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:144][753]LogWorld: Bringing up level for play took: 0.121737
+[2026.04.28-19.16.27:147][753]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:158][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:160][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:160][753]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.27:162][753]PIE: Serveur connecté
+[2026.04.28-19.16.27:165][753]PIE: Play in Editor : temps total de démarrage 0,651 secondes.
+[2026.04.28-19.16.46:732][297]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.46:732][297]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.46:732][297]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.16.46:732][297]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.19.18:062][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.19.18:062][635]LogWorld: BeginTearingDown for /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.19.18:065][635]LogWorld: UWorld::CleanupWorld for LV_Soul_Slum, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.19.18:079][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.19.18:089][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-19.19.18:100][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.19.18:147][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.28-19.19.18:149][635]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.28-19.19.18:149][635]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.28-19.19.18:153][635]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.28-19.19.18:160][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.19.18:180][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.04.28-19.19.18:453][636]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.04.28-19.19.18:500][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.04.28-19.19.22:484][748]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.19.22:566][748]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.20.16:133][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10271.487305
+[2026.04.28-19.20.16:249][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.20.16:249][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10271.585938, Update Interval: 310.168152
+[2026.04.28-19.20.18:442][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-19.20.19:223][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-19.20.21:475][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-19.21.23:899][629]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.22.03:571][ 80]Cmd: SELECT NONE
+[2026.04.28-19.22.15:878][283]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_Footsteps.MS_Footsteps
+[2026.04.28-19.22.15:953][283]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.22.15:953][283]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.22.15:953][283]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.22.35:570][947]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MetasoundEditorGraphVariable /Game/Audio/MS_Rifle.MS_Rifle:MetasoundEditorGraph_0.Member_6D15C9EC4591E3E43CFCE4B68904AB57) from referencer (MetasoundEditorGraphVariableNode /Game/Audio/MS_Footsteps.MS_Footsteps:MetasoundEditorGraph_0.MetasoundEditorGraphVariableNode_1).  Import failed...
+[2026.04.28-19.22.35:570][947]LogProperty: Warning: ObjectProperty /Script/MetasoundEditor.MetasoundEditorGraphVariableNode:Variable: unresolved reference to '"/Script/MetasoundEditor.MetasoundEditorGraphVariable'Member_6D15C9EC4591E3E43CFCE4B68904AB57'"'
+[2026.04.28-19.24.34:401][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.04.28-19.24.34:406][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SoulCity/Maps/LV_Soul_Slum' took 0.062
+[2026.04.28-19.24.34:407][715]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Footsteps] ([1] browsable assets)...
+[2026.04.28-19.24.34:407][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Footsteps]
+[2026.04.28-19.24.34:431][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MS_Footsteps_Auto4
+[2026.04.28-19.24.34:431][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Footsteps_Auto4D6A806B5421420049B934599F4D457FF.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/MS_Footsteps_Auto4.uasset'
+[2026.04.28-19.24.34:432][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Gun/Shot] ([1] browsable assets)...
+[2026.04.28-19.24.34:435][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Gun/Shot.Shot]
+[2026.04.28-19.24.34:435][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Gun/Shot]
+[2026.04.28-19.24.34:445][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Gun/Shot_Auto4
+[2026.04.28-19.24.34:445][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Shot_Auto485E45BAB4D1BF64AEE912899AEBBF715.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Gun/Shot_Auto4.uasset'
+[2026.04.28-19.24.34:446][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step1] ([1] browsable assets)...
+[2026.04.28-19.24.34:449][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step1.step1]
+[2026.04.28-19.24.34:449][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step1]
+[2026.04.28-19.24.34:457][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step1_Auto4
+[2026.04.28-19.24.34:457][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step1_Auto443F62B5B45F8311AEF7FA18E0820FB54.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step1_Auto4.uasset'
+[2026.04.28-19.24.34:457][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step2] ([1] browsable assets)...
+[2026.04.28-19.24.34:460][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step2.step2]
+[2026.04.28-19.24.34:460][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step2]
+[2026.04.28-19.24.34:468][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step2_Auto4
+[2026.04.28-19.24.34:469][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step2_Auto450AF649D4BB812485875AABEC4B39A2F.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step2_Auto4.uasset'
+[2026.04.28-19.24.34:469][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Footsteps/step3] ([1] browsable assets)...
+[2026.04.28-19.24.34:472][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Footsteps/step3.step3]
+[2026.04.28-19.24.34:472][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step3]
+[2026.04.28-19.24.34:480][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Footsteps/step3_Auto4
+[2026.04.28-19.24.34:480][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step3_Auto4A688312B435673E2034402BC09510912.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Footsteps/step3_Auto4.uasset'
+[2026.04.28-19.24.34:481][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/BuzzingLamp] ([1] browsable assets)...
+[2026.04.28-19.24.34:485][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/BuzzingLamp.BuzzingLamp]
+[2026.04.28-19.24.34:485][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/BuzzingLamp]
+[2026.04.28-19.24.34:497][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto4
+[2026.04.28-19.24.34:497][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/BuzzingLamp_Auto4EFA72E6F4348F42FB2D8B9B6E937E5F5.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/BuzzingLamp_Auto4.uasset'
+[2026.04.28-19.24.34:497][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/Fabric] ([1] browsable assets)...
+[2026.04.28-19.24.34:503][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/Fabric.Fabric]
+[2026.04.28-19.24.34:503][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Fabric]
+[2026.04.28-19.24.34:519][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto4
+[2026.04.28-19.24.34:519][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Fabric_Auto4414779EC45EF022CCD7DC0BC95773746.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Fabric_Auto4.uasset'
+[2026.04.28-19.24.34:520][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/FlickerLoop] ([1] browsable assets)...
+[2026.04.28-19.24.34:561][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/FlickerLoop.FlickerLoop]
+[2026.04.28-19.24.34:561][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/FlickerLoop]
+[2026.04.28-19.24.34:613][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto4
+[2026.04.28-19.24.34:613][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/FlickerLoop_Auto45D1B1A144AE72DF21EB8DDA851BD543B.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/FlickerLoop_Auto4.uasset'
+[2026.04.28-19.24.34:614][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/Gears] ([1] browsable assets)...
+[2026.04.28-19.24.34:619][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/Gears.Gears]
+[2026.04.28-19.24.34:619][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Gears]
+[2026.04.28-19.24.34:634][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto4
+[2026.04.28-19.24.34:634][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Gears_Auto4585CF933459951746E93D5A87018BCA9.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/Gears_Auto4.uasset'
+[2026.04.28-19.24.34:635][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/NeonLoop] ([1] browsable assets)...
+[2026.04.28-19.24.34:639][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/NeonLoop.NeonLoop]
+[2026.04.28-19.24.34:639][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/NeonLoop]
+[2026.04.28-19.24.34:652][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto4
+[2026.04.28-19.24.34:652][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/NeonLoop_Auto4585D876F43D497AB879B7FACC5C60909.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/NeonLoop_Auto4.uasset'
+[2026.04.28-19.24.34:652][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/OceanLoop] ([1] browsable assets)...
+[2026.04.28-19.24.34:676][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/OceanLoop.OceanLoop]
+[2026.04.28-19.24.34:676][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/OceanLoop]
+[2026.04.28-19.24.34:719][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto4
+[2026.04.28-19.24.34:719][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/OceanLoop_Auto4C53DA4F0435FF1FCBE6F1CBDE9EFB279.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/OceanLoop_Auto4.uasset'
+[2026.04.28-19.24.34:720][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ambient_Sounds/SparklingLoop] ([1] browsable assets)...
+[2026.04.28-19.24.34:725][715]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ambient_Sounds/SparklingLoop.SparklingLoop]
+[2026.04.28-19.24.34:725][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/SparklingLoop]
+[2026.04.28-19.24.34:739][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto4
+[2026.04.28-19.24.34:739][715]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SparklingLoop_Auto4A3A12AD544A520F23D54829E65149F01.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Autosaves/Game/Audio/Ambient_Sounds/SparklingLoop_Auto4.uasset'
+[2026.04.28-19.24.34:739][715]LogFileHelpers: Auto-saving content packages took 0.333
+[2026.04.28-19.24.39:558][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-19.24.39:679][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Footsteps] ([1] browsable assets)...
+[2026.04.28-19.24.39:679][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Footsteps]
+[2026.04.28-19.24.39:679][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Footsteps" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Footsteps.uasset" SILENT=true
+[2026.04.28-19.24.39:702][879]LogSavePackage: Moving output files for package: /Game/Audio/MS_Footsteps
+[2026.04.28-19.24.39:702][879]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Footsteps9BFDF3BD425F584F288F309BCB26998D.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Footsteps.uasset'
+[2026.04.28-19.24.39:712][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.761 ms (total: 312.889 ms)
+[2026.04.28-19.24.39:777][879]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-19.24.39:777][879]LogContentValidation: Enabled validators:
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-19.24.39:777][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-19.24.39:777][879]AssetCheck: /Game/Audio/MS_Footsteps Validation de la ressource
+[2026.04.28-19.24.39:842][879]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-19.24.42:704][974]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MS_Land.MS_Land
+[2026.04.28-19.24.42:767][974]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.24.42:767][974]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.24.42:767][974]LogSlate: The tab "MetasoundEditor_UserPresetWidget" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v15' but failed for some reason. It will not be displayed.
+[2026.04.28-19.24.46:492][ 87]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MetasoundEditorGraphVariable /Game/Audio/MS_Rifle.MS_Rifle:MetasoundEditorGraph_0.Member_6D15C9EC4591E3E43CFCE4B68904AB57) from referencer (MetasoundEditorGraphVariableNode /Game/Audio/MS_Land.MS_Land:MetasoundEditorGraph_0.MetasoundEditorGraphVariableNode_1).  Import failed...
+[2026.04.28-19.24.46:492][ 87]LogProperty: Warning: ObjectProperty /Script/MetasoundEditor.MetasoundEditorGraphVariableNode:Variable: unresolved reference to '"/Script/MetasoundEditor.MetasoundEditorGraphVariable'Member_6D15C9EC4591E3E43CFCE4B68904AB57'"'
+[2026.04.28-19.25.24:956][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-19.25.25:060][378]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Land] ([1] browsable assets)...
+[2026.04.28-19.25.25:060][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Land]
+[2026.04.28-19.25.25:060][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Land" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Land.uasset" SILENT=true
+[2026.04.28-19.25.25:086][378]LogSavePackage: Moving output files for package: /Game/Audio/MS_Land
+[2026.04.28-19.25.25:087][378]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Land75101E30472A85EA79783294B6207D76.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Land.uasset'
+[2026.04.28-19.25.25:097][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.131 ms (total: 454.020 ms)
+[2026.04.28-19.25.25:159][378]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-19.25.25:159][378]LogContentValidation: Enabled validators:
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-19.25.25:159][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-19.25.25:159][378]AssetCheck: /Game/Audio/MS_Land Validation de la ressource
+[2026.04.28-19.25.25:230][378]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-19.25.28:935][495]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.04.28-19.25.28:952][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-19.25.28:952][495]LogPlayLevel: Creating play world package: /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.25.29:255][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.302945s)
+[2026.04.28-19.25.29:255][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SoulCity/Maps/LV_Soul_Slum.LV_Soul_Slum to /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum (0.302996s)
+[2026.04.28-19.25.29:301][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.28-19.25.29:303][495]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Soul_Slum
+[2026.04.28-19.25.29:306][495]LogPlayLevel: PIE: World Init took: (0.002855s)
+[2026.04.28-19.25.29:307][495]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-19.25.29:307][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-19.25.29:307][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-19.25.29:307][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-19.25.29:307][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-19.25.29:307][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-19.25.29:310][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-19.25.29:343][495]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL T450BT)
+[2026.04.28-19.25.29:343][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-19.25.29:343][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-19.25.29:343][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-19.25.29:344][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.28-19.25.29:344][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.28-19.25.29:347][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.28-19.25.29:347][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.28-19.25.29:347][495]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.28-19.25.29:347][495]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_Soul_Slum'.
+[2026.04.28-19.25.29:347][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.28-19.25.29:351][495]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.04.28-19.25.29:485][495]LogWorld: Bringing World /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum up for play (max tick rate 0) at 2026.04.28-15.25.29
+[2026.04.28-19.25.29:532][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:532][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:534][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:534][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:534][495]LogWorld: Bringing up level for play took: 0.117772
+[2026.04.28-19.25.29:537][495]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:546][495]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.29:549][495]PIE: Serveur connecté
+[2026.04.28-19.25.29:552][495]PIE: Play in Editor : temps total de démarrage 0,608 secondes.
+[2026.04.28-19.25.50:646][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.25.50:646][162]LogWorld: BeginTearingDown for /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.25.50:650][162]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.50:650][162]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.50:650][162]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.50:651][162]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.25.50:651][162]LogWorld: UWorld::CleanupWorld for LV_Soul_Slum, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.25.50:665][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.25.50:669][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-19.25.50:678][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.25.50:721][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.28-19.25.50:722][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.28-19.25.50:722][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.28-19.25.50:725][162]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.28-19.25.50:731][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.25.50:752][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.04.28-19.25.51:007][163]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.04.28-19.25.51:055][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.28-19.25.52:213][166]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.25.52:288][166]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.26.10:809][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10626.196289
+[2026.04.28-19.26.10:951][785]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.26.10:951][785]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10626.303711, Update Interval: 345.902283
+[2026.04.28-19.26.27:336][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-19.26.27:442][350]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MS_Land] ([1] browsable assets)...
+[2026.04.28-19.26.27:442][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MS_Land]
+[2026.04.28-19.26.27:442][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MS_Land" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Land.uasset" SILENT=true
+[2026.04.28-19.26.27:465][350]LogSavePackage: Moving output files for package: /Game/Audio/MS_Land
+[2026.04.28-19.26.27:465][350]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/MS_Land4964E5EF47C5127AC6A55588D4A4EECE.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/MS_Land.uasset'
+[2026.04.28-19.26.27:476][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.443 ms (total: 593.464 ms)
+[2026.04.28-19.26.27:542][350]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-19.26.27:542][350]LogContentValidation: Enabled validators:
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-19.26.27:542][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-19.26.27:542][350]AssetCheck: /Game/Audio/MS_Land Validation de la ressource
+[2026.04.28-19.26.32:068][516]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.04.28-19.26.32:084][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-19.26.32:084][516]LogPlayLevel: Creating play world package: /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.26.32:374][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.289198s)
+[2026.04.28-19.26.32:374][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SoulCity/Maps/LV_Soul_Slum.LV_Soul_Slum to /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum (0.289254s)
+[2026.04.28-19.26.32:407][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.28-19.26.32:409][516]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Soul_Slum
+[2026.04.28-19.26.32:411][516]LogPlayLevel: PIE: World Init took: (0.002549s)
+[2026.04.28-19.26.32:414][516]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-19.26.32:414][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-19.26.32:414][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-19.26.32:414][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-19.26.32:414][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-19.26.32:414][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-19.26.32:418][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-19.26.32:449][516]LogAudioMixer: Display: Using Audio Hardware Device Casque (JBL T450BT)
+[2026.04.28-19.26.32:449][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-19.26.32:449][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-19.26.32:449][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-19.26.32:449][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.28-19.26.32:449][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.28-19.26.32:453][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.28-19.26.32:453][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.28-19.26.32:453][516]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.28-19.26.32:453][516]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV_Soul_Slum'.
+[2026.04.28-19.26.32:453][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.28-19.26.32:457][516]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.04.28-19.26.32:592][516]LogWorld: Bringing World /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum.LV_Soul_Slum up for play (max tick rate 0) at 2026.04.28-15.26.32
+[2026.04.28-19.26.32:642][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:642][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:642][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:642][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:643][516]LogWorld: Bringing up level for play took: 0.120733
+[2026.04.28-19.26.32:645][516]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:655][516]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Bind Event to On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.26.32:658][516]PIE: Serveur connecté
+[2026.04.28-19.26.32:661][516]PIE: Play in Editor : temps total de démarrage 0,583 secondes.
+[2026.04.28-19.27.50:578][171]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.27.50:683][174]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.04.28-19.27.50:782][178]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 3 out of 16 tries.
+[2026.04.28-19.27.50:882][181]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 4 out of 16 tries.
+[2026.04.28-19.27.50:985][185]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 5 out of 16 tries.
+[2026.04.28-19.27.55:097][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.27.55:097][329]LogWorld: BeginTearingDown for /Game/SoulCity/Maps/UEDPIE_0_LV_Soul_Slum
+[2026.04.28-19.27.55:100][329]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.27.55:100][329]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Updated Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.27.55:101][329]PIE: Error: Erreur d'exécution Blueprint: "Accès à "Aucun" lors de la tentative de lecture de (real) la propriété Controller dans StateTreeTask_SenseEnemies_C". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.27.55:101][329]PIE: Error: Erreur d'exécution Blueprint: "Accès à None". Nœud :  Unbind Event from On Target Perception Forgotten Graphique :  EventGraph Fonction :  Execute Ubergraph State Tree Task Sense Enemies Blueprint :  StateTreeTask_SenseEnemies
+[2026.04.28-19.27.55:101][329]LogWorld: UWorld::CleanupWorld for LV_Soul_Slum, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.27.55:116][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.27.55:119][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-19.27.55:129][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.27.55:167][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-19.27.55:175][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.28-19.27.55:175][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.28-19.27.55:179][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.28-19.27.55:204][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.28-19.27.55:476][330]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.28-19.27.55:522][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.28-19.29.06:106][540]LogDerivedDataCache: C:/Users/6239581/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.28-19.30.55:811][869]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.32.37:399][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11012.755859
+[2026.04.28-19.32.38:398][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.32.38:398][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11013.422852, Update Interval: 339.520874
+[2026.04.28-19.33.19:170][299]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.39.06:478][340]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11401.797852
+[2026.04.28-19.39.07:479][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.39.07:479][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11402.464844, Update Interval: 305.251617
+[2026.04.28-19.40.22:924][570]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.44.53:545][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11748.837891
+[2026.04.28-19.44.54:544][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.44.54:544][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11749.502930, Update Interval: 353.737610
+[2026.04.28-19.51.32:394][578]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.28-19.51.32:489][578]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.04.28-19.51.32:588][578]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 3 out of 16 tries.
+[2026.04.28-19.51.47:625][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12162.877930
+[2026.04.28-19.51.48:625][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-19.51.48:625][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12163.543945, Update Interval: 340.538940
+[2026.04.28-19.52.33:486][832]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.52.33:570][832]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-19.52.43:099][187]LogSlate: Window 'MS_Land' being destroyed
+[2026.04.28-19.52.43:153][187]LogSlate: Window 'MS_Land' being destroyed
+[2026.04.28-19.52.43:780][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.28-19.52.46:307][208]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2026.04.28-19.52.46:331][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-19.52.46:383][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/BuzzingLamp] ([1] browsable assets)...
+[2026.04.28-19.52.46:383][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/BuzzingLamp]
+[2026.04.28-19.52.46:397][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/BuzzingLamp
+[2026.04.28-19.52.46:397][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/BuzzingLamp2B5344514EB8987B2895A380565B3CFE.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/BuzzingLamp.uasset'
+[2026.04.28-19.52.46:427][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/Fabric] ([1] browsable assets)...
+[2026.04.28-19.52.46:427][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Fabric]
+[2026.04.28-19.52.46:427][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Ambient_Sounds/Fabric" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.uasset" SILENT=true
+[2026.04.28-19.52.46:444][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/Fabric
+[2026.04.28-19.52.46:444][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/FabricFFC627EE452EF9A1C38BFB82F4A0C108.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Fabric.uasset'
+[2026.04.28-19.52.46:445][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/FlickerLoop] ([1] browsable assets)...
+[2026.04.28-19.52.46:445][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/FlickerLoop]
+[2026.04.28-19.52.46:497][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/FlickerLoop
+[2026.04.28-19.52.46:497][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/FlickerLoop7ACD229440AA3C326DD293920F30FA10.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/FlickerLoop.uasset'
+[2026.04.28-19.52.46:499][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/Gears] ([1] browsable assets)...
+[2026.04.28-19.52.46:499][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/Gears]
+[2026.04.28-19.52.46:499][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Ambient_Sounds/Gears" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.uasset" SILENT=true
+[2026.04.28-19.52.46:514][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/Gears
+[2026.04.28-19.52.46:514][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Gears0F33BFC145C06E96483328998D8DC1B5.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/Gears.uasset'
+[2026.04.28-19.52.46:516][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/NeonLoop] ([1] browsable assets)...
+[2026.04.28-19.52.46:516][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/NeonLoop]
+[2026.04.28-19.52.46:529][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/NeonLoop
+[2026.04.28-19.52.46:529][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/NeonLoop73841ABE46CF7069288BB99BE197E46F.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/NeonLoop.uasset'
+[2026.04.28-19.52.46:530][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/OceanLoop] ([1] browsable assets)...
+[2026.04.28-19.52.46:530][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/OceanLoop]
+[2026.04.28-19.52.46:573][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/OceanLoop
+[2026.04.28-19.52.46:573][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/OceanLoop0B810B5B4EDAEF67FCFDB48A17DB3DE5.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/OceanLoop.uasset'
+[2026.04.28-19.52.46:574][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Gun/Shot] ([1] browsable assets)...
+[2026.04.28-19.52.46:574][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Gun/Shot]
+[2026.04.28-19.52.46:574][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Gun/Shot" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.uasset" SILENT=true
+[2026.04.28-19.52.46:584][208]LogSavePackage: Moving output files for package: /Game/Audio/Gun/Shot
+[2026.04.28-19.52.46:584][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/Shot25E8D7B44ABBAE19557F83B9FC4A7743.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Gun/Shot.uasset'
+[2026.04.28-19.52.46:588][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Ambient_Sounds/SparklingLoop] ([1] browsable assets)...
+[2026.04.28-19.52.46:588][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ambient_Sounds/SparklingLoop]
+[2026.04.28-19.52.46:603][208]LogSavePackage: Moving output files for package: /Game/Audio/Ambient_Sounds/SparklingLoop
+[2026.04.28-19.52.46:603][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SparklingLoop24EF614B46C0A3E0A9D0E197993C9615.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Ambient_Sounds/SparklingLoop.uasset'
+[2026.04.28-19.52.46:604][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step1] ([1] browsable assets)...
+[2026.04.28-19.52.46:604][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step1]
+[2026.04.28-19.52.46:604][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Footsteps/step1" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.uasset" SILENT=true
+[2026.04.28-19.52.46:612][208]LogSavePackage: Moving output files for package: /Game/Audio/Footsteps/step1
+[2026.04.28-19.52.46:613][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step17544383748964D80BF2BC288012ABF7D.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step1.uasset'
+[2026.04.28-19.52.46:615][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step2] ([1] browsable assets)...
+[2026.04.28-19.52.46:615][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step2]
+[2026.04.28-19.52.46:615][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Footsteps/step2" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.uasset" SILENT=true
+[2026.04.28-19.52.46:622][208]LogSavePackage: Moving output files for package: /Game/Audio/Footsteps/step2
+[2026.04.28-19.52.46:622][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step2CAC58B884CCFFD85C8D3C488D9EF3A78.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step2.uasset'
+[2026.04.28-19.52.46:624][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Footsteps/step3] ([1] browsable assets)...
+[2026.04.28-19.52.46:624][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Footsteps/step3]
+[2026.04.28-19.52.46:624][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Footsteps/step3" FILE="../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.uasset" SILENT=true
+[2026.04.28-19.52.46:633][208]LogSavePackage: Moving output files for package: /Game/Audio/Footsteps/step3
+[2026.04.28-19.52.46:633][208]LogSavePackage: Moving '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/step31C0720D34515BE6715A980875AF8B35E.tmp' to '../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Content/Audio/Footsteps/step3.uasset'
+[2026.04.28-19.52.46:644][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 312.617 ms (total: 906.082 ms)
+[2026.04.28-19.52.46:682][208]LogStall: Shutdown...
+[2026.04.28-19.52.46:682][208]LogStall: Shutdown complete.
+[2026.04.28-19.52.46:724][208]LogSlate: Window 'S10_integration - Unreal Editor' being destroyed
+[2026.04.28-19.52.46:726][208]LogWindowsTextInputMethodSystem: Activated input method: Français (Canada) - (Keyboard).
+[2026.04.28-19.52.47:375][208]LogContentValidation: Display: Starting to validate 11 assets
+[2026.04.28-19.52.47:375][208]LogContentValidation: Enabled validators:
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-19.52.47:375][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/BuzzingLamp Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/Fabric Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/FlickerLoop Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/Gears Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/NeonLoop Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/OceanLoop Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Gun/Shot Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Ambient_Sounds/SparklingLoop Validation de la ressource
+[2026.04.28-19.52.47:375][208]AssetCheck: /Game/Audio/Footsteps/step1 Validation de la ressource
+[2026.04.28-19.52.47:376][208]AssetCheck: /Game/Audio/Footsteps/step2 Validation de la ressource
+[2026.04.28-19.52.47:376][208]AssetCheck: /Game/Audio/Footsteps/step3 Validation de la ressource
+[2026.04.28-19.52.47:380][208]Cmd: QUIT_EDITOR
+[2026.04.28-19.52.47:380][208]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.28-19.52.47:381][208]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6239581/Documents/GitHub/Soul-Slum/S10_integration/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-19.52.47:390][209]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.28-19.52.47:393][209]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.28-19.52.47:394][209]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.28-19.52.47:456][209]LogWorld: UWorld::CleanupWorld for LV_Soul_Slum, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:458][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:459][209]LogWorld: UWorld::CleanupWorld for SLV_Soul_Slum_Collision, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:459][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:491][209]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.28-19.52.47:493][209]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.28-19.52.47:503][209]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.28-19.52.47:534][209]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:535][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:540][209]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:540][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:548][209]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:549][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:553][209]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-19.52.47:553][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-19.52.47:572][209]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.28-19.52.47:572][209]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.28-19.52.47:586][209]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.28-19.52.48:179][209]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.28-19.52.48:179][209]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.28-19.52.48:179][209]LogAudio: Display: Audio Device unregistered from world 'LV_Soul_Slum'.
+[2026.04.28-19.52.48:179][209]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.28-19.52.48:179][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.28-19.52.48:183][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.28-19.52.48:196][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.28-19.52.48:196][209]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.28-19.52.48:204][209]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.28-19.52.48:205][209]LogExit: Preparing to exit.
+[2026.04.28-19.52.48:339][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.28-19.52.48:360][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:362][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:364][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:365][209]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.28-19.52.48:758][209]LogEditorDataStorage: Deinitializing
+[2026.04.28-19.52.49:193][209]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.28-19.52.49:301][209]LogExit: Editor shut down
+[2026.04.28-19.52.49:314][209]LogExit: Transaction tracking system shut down
+[2026.04.28-19.52.50:287][209]LogExit: Object subsystem successfully closed.
+[2026.04.28-19.52.50:404][209]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.28-19.52.50:890][209]LogMemoryProfiler: Shutdown
+[2026.04.28-19.52.50:891][209]LogNetworkingProfiler: Shutdown
+[2026.04.28-19.52.50:891][209]LoadingProfiler: Shutdown
+[2026.04.28-19.52.50:892][209]LogTimingProfiler: Shutdown
+[2026.04.28-19.52.50:902][209]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.28-19.52.50:903][209]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.28-19.52.51:453][209]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.28-19.52.51:459][209]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.28-19.52.51:508][209]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.28-19.52.51:508][209]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB77943F1-4097-B2C5-5144-99926884DC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=0e8fa99a4fb56266db835e99a7960917%7C9def055ea9144120a1771bdfdf5e59ee%7C4e448d75-147c-4a24-bd65-a638b3700728&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.28-19.52.52:102][209]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.28-19.52.52:115][209]RenderDocPlugin: plugin has been unloaded.
+[2026.04.28-19.52.52:125][209]LogXGEController: Cleaning working directory: C:/Users/6239581/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.28-19.52.52:165][209]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.28-19.52.52:165][209]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.28-19.52.52:168][209]LogPakFile: Destroying PakPlatformFile
+[2026.04.28-19.52.52:876][209]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.28-19.52.52:957][209]LogExit: Exiting.
+[2026.04.28-19.52.52:993][209]Log file closed, 04/28/26 15:52:52
