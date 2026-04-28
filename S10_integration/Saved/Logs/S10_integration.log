@@ -3196,3 +3196,6 @@ FPackageName: Skipped package /Game/SoulCity/Maps/SLV_Soul_Slum_Collision_BuiltD
 [2026.04.28-18.40.37:811][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2026.04.28-18.40.39:130][869]LogSlate: Window 'Journal des messages' being destroyed
 [2026.04.28-18.40.39:152][869]LogSlate: Window 'Journal des messages' being destroyed
+[2026.04.28-18.43.45:489][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8080.867676
+[2026.04.28-18.43.46:488][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-18.43.46:488][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8081.533203, Update Interval: 304.918365
